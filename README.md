@@ -78,7 +78,7 @@ smooth.jsfl - smooths the current selection. This is great for smoothing strokes
 toggleguide.jsfl - toggles the selected layer(s) to guide or normal.
 
 zoom 1.jsfl
-zoom 2.jsfl - zooms slight in or out.
+zoom 2.jsfl - zooms slightly in or out. A little more subtle than default zoom.
 
 Next Cel.jsfl - moves to the next keyframe.
 
