@@ -1,7 +1,8 @@
 Things to make working in flash easier.
 Credit to Ryo Timo who created the bulk of the scripts and Vladin Mitov created the group and labelcel scripts and mentored me a little bit. 
 Works in Flash 8.
-Install directory C:\Users\User\AppData\Local\Macromedia\Flash 8\en\Configuration\Commands
+
+Script install directory C:\Users\User\AppData\Local\Macromedia\Flash 8\en\Configuration\Commands
 
 Copy the .jsfl files to the 'Commands' folder.
 
