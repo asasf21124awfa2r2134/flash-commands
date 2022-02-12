@@ -49,9 +49,7 @@ Folder - Old.jsfl - inserts selected layers into a folder named 'old'.
 
 group.jsfl - groups any drawing objects (anything that isn't already a group) on selected frame(s).
 
-labelcel.jsfl - labels // delete this script
-
-labelcel2.jsfl - adds text to all keyframes of the current layer. Uses the layer name and frame label (Mark frame.jsfl), useful to quickly label cels.
+labelcel.jsfl - adds text to all keyframes of the current layer. Uses the layer name and frame label (Mark frame.jsfl), useful to quickly label cels.
 
 LayerDown.jsfl - moves down 1 layer.
 
