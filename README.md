@@ -75,6 +75,8 @@ overlap.jsfl - sets the currently selected stroke to a lighter colour. I use it 
 
 smooth.jsfl - smooths the current selection. This is great for smoothing strokes during cleanup.
 
+toggleguide.jsfl - toggles the selected layer(s) to guide or normal.
+
 zoom 1.jsfl
 zoom 2.jsfl - zooms slight in or out.
 
