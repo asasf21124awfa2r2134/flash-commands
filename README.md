@@ -1,6 +1,6 @@
 Things to make working in flash easier.
 Credit to Ryo Timo who created the bulk of the scripts and Vladin Mitov created the group and labelcel scripts and mentored me a little bit. 
-Works in Flash 8.
+Works in Flash 8, but most of the scripts work fine in other versions too.
 
 Script install directory C:\Users\User\AppData\Local\Macromedia\Flash 8\en\Configuration\Commands
 
@@ -50,7 +50,7 @@ Folder - Old.jsfl - inserts selected layers into a folder named 'old'.
 
 group.jsfl - groups any drawing objects (anything that isn't already a group) on selected frame(s).
 
-labelcel.jsfl - adds text to all keyframes of the current layer. Uses the layer name and frame label (Mark frame.jsfl), useful to quickly label cels.
+labelcel.jsfl - adds text to all keyframes of the current layer. Uses the layer name and frame label (Mark frame.jsfl), useful to quickly label cels. In Flash 8 you will probably get an 'OpenClipboard Failed' error, so just hold down Enter after running the script.
 
 LayerDown.jsfl - moves down 1 layer.
 
