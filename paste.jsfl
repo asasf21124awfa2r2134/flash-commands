@@ -1,1 +1,0 @@
-﻿fl.getDocumentDOM().clipPaste(true);
