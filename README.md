@@ -1,6 +1,7 @@
-Things to make working in flash easier.
+Commands to make working in flash easier.
 Credit to Ryo Timo who created the bulk of the scripts and Vladin Mitov created the group and labelcel scripts and mentored me a little bit. 
 Works in Flash 8, but most of the scripts work fine in other versions too.
+For hardware I recommend getting a keypad like the Razer Tartarus V2 so you can easily bind all these scripts.
 
 Script install directory C:\Users\User\AppData\Local\Macromedia\Flash 8\en\Configuration\Commands
 
@@ -80,8 +81,3 @@ zoom 2.jsfl - zooms slightly in or out. A little more subtle than default zoom.
 Next Cel.jsfl - moves to the next keyframe.
 
 Previous Cel.jsfl - moves to the previous keyframe.
-
-
-I recommend buying a keypad so you can keybind all these scripts. I recommend the Razer Tartarus V2.
-
-That's all for now...
