@@ -82,6 +82,6 @@ Next Cel.jsfl - moves to the next keyframe.
 Previous Cel.jsfl - moves to the previous keyframe.
 
 
-I recommend buying a keypad so you can keybind all these scripts. I use the Razer Tartarus V2.
+I recommend buying a keypad so you can keybind all these scripts. I recommend the Razer Tartarus V2.
 
 That's all for now...
